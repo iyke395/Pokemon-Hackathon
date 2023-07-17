@@ -75,9 +75,13 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 ### TOP 4 FOR SPEED
 **Regieleki** is an Electric Pokémon with a Speed of **200** Making it the _Fastest_ this category
+
 **Deoxys Speed Forme** is a Psychic Pokémon with a Speed of 180
+
 **Ninjask** is a Bug & Flying Pokémon with a Speed of 160
+
 **Pheromosa** is a Psychic & Ghost Pokémon with a Speed of 151
+
 
 
 ### TOP 5 OVERALL POINT
@@ -91,7 +95,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 **Groudon Primal Groudon** 770
 
-## MY CHOSEN POKEMON
+## MY BATTLE POKEMON
 _I decided to pick 6 pokemons for my battle, the strongest from each unique category_ and also had strenght in other aspects as well
 
 **Eternatus Eternamax** because it is has the strongest _Defence_ and _HitPoint_ value of 250 & 255 respectively
@@ -109,9 +113,12 @@ _I decided to pick 6 pokemons for my battle, the strongest from each unique cate
 
 
 ## Analysis Video
+_A Quick Interactive Recap on the Analysis of the data on the Power BI interface_
+
 https://www.loom.com/share/2055ba90452f42ffaf1fbc42083fdd47?sid=5f723d6e-82df-4e17-b1c4-dc435b11cd78
 
 
 ## Power BI File & Link
-The Power BI file is attached below along side some pictures from my analysis on Power BI
+_The Power BI file is attached below along side some pictures from my analysis on Power BI_
+
 https://drive.google.com/drive/folders/1qgZIjy149ZJhBbeQ-4LFgRcncV1HZIph?usp=drive_link
