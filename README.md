@@ -109,7 +109,9 @@ _I decided to pick 6 pokemons for my battle, the strongest from each unique cate
 
 
 ## Analysis Video
-https://www.loom.com/share/
+https://www.loom.com/share/2055ba90452f42ffaf1fbc42083fdd47?sid=5f723d6e-82df-4e17-b1c4-dc435b11cd78
+
 
 ## Power BI File & Link
 The Power BI file is attached below along side some pictures from my analysis on Power BI
+https://drive.google.com/drive/folders/1qgZIjy149ZJhBbeQ-4LFgRcncV1HZIph?usp=drive_link
