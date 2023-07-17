@@ -30,38 +30,51 @@ logically, its preferrably to choose the pokemons with different individual stre
 - Loaded the csv file on Power Query to do he necessary cleaning, i decided to change all balnk cells to "Null"
 - Apply to power BI to commence Visualization
 - i used more of clustered bar charts for the visualizations and Filtered by the Top 5 or 6 in some cases
-- 
+  
 ## Overview of Analysis obtained
-- We had a total of 1194 unique Pokemon
-- 18 Primary types of pokemon
-- The **Water** Type is the most common type in this Dataset with a value of **150** pokemon.the next type that comes close is the **Water** Type with **131**
+- We had a total of **1194** unique Pokemon
+- **18** Primary types of pokemon
+- The **Water** Type is the most common type in this Dataset with a value of **150** pokemon.the next type that comes close is the **Normal** Type with **131**
 - Every pokemon had a total point which comprises of the sum of different unique criteria **(Attack,Speed,Defence,Hitpoint,Special Attack,Special Defence)**
   
 ## Analysis on each criteria
 ### TOP 6 FOR ATTACK 
 
-**Mewtwo Mega Mewtwo X** is a Psychic & Fighting Pokémon with an Attack point of 190 and it tops this category
-**Heracross Mega Heracross** is a Bug & Fighting Pokémon with an Attack point of  185
-**Kartana** is a Grass & Steel Pokémon with an Attack point of  181
+**Mewtwo Mega Mewtwo X** is a Psychic & Fighting Pokémon with an Attack point of **190** and it tops this category.
+
+**Heracross Mega Heracross** is a Bug & Fighting Pokémon with an Attack point of  185.
+
+**Kartana** is a Grass & Steel Pokémon with an Attack point of  181.
+
 **Groudon Primal Groudon** is a Ground & Fire Pokémon , **Rayquaza Mega Rayquaza** is a Dragon & Flying Pokémon, **Deoxys Attack Forme** is a Psychic Pokémon All three has an Attack point of 180
 
 ### TOP 5 FOR DEFENCE
-**Eternatus Eternamax** is a Poison & Dragon Pokémon with a defence point of 250 and it tops this category
-**Aggron Mega Aggron** is a Steel Pokemon with defence point of 230
-**Steelix Mega Steelix** is a Steel & Ground with defence point of 230
-**Shuckle** is a Bug &Rock Pokemon with defence point of 230
-**Stakataka** is a Rock & and Steel Pokemon with defence point of 211
+**Eternatus Eternamax** is a Poison & Dragon Pokémon with a defence point of **250** and it tops this category.
+
+**Aggron Mega Aggron** is a Steel Pokemon with defence point of 230.
+
+**Steelix Mega Steelix** is a Steel & Ground with defence point of 230.
+
+**Shuckle** is a Bug &Rock Pokemon with defence point of 230.
+
+**Stakataka** is a Rock & and Steel Pokemon with defence point of 211.
+
 
 ### TOP 5 FOR HITPOINT
 
-**Eternatus Eternamax** is a Poison & Dragon Pokémon with HitPoint of 255 and it tops this category
-**Blissey** is a Normal Pokémon with HitPoint of  255
-**Chansey** is a Normal Pokémon with HitPoint of  250
-**Guzzlord** is a Dark & Dragon Pokémon with HitPoint of  223
-**Zygarde Complete Forme** is a Dragon & Ground Pokémon with HitPoint of  216
+**Eternatus Eternamax** is a Poison & Dragon Pokémon with HitPoint of **255** and it tops this category. 
 
-### TOP 5 FOR SPEED
-**Regieleki** is an Electric Pokémon with a Speed of 200 Making it the _Fastest_ this category
+**Blissey** is a Normal Pokémon with HitPoint of **255**.
+
+**Chansey** is a Normal Pokémon with HitPoint of  250. 
+
+**Guzzlord** is a Dark & Dragon Pokémon with HitPoint of 223. 
+
+**Zygarde Complete Forme** is a Dragon & Ground Pokémon with HitPoint of  216.
+
+
+### TOP 4 FOR SPEED
+**Regieleki** is an Electric Pokémon with a Speed of **200** Making it the _Fastest_ this category
 **Deoxys Speed Forme** is a Psychic Pokémon with a Speed of 180
 **Ninjask** is a Bug & Flying Pokémon with a Speed of 160
 **Pheromosa** is a Psychic & Ghost Pokémon with a Speed of 151
@@ -69,19 +82,29 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 ### TOP 5 OVERALL POINT
 **Eternatus Eternamax** IS THE STRONGEST POKEMON WITH A TOTAL POINT OF **1125**
+
 **Mewtwo Mega Mewtwo** Y 780
+
 **Mewtwo Mega Mewtwo** X 780
+
 **Rayquaza Mega Rayquaza** 770
+
 **Groudon Primal Groudon** 770
 
 ## MY CHOSEN POKEMON
-_I decided to pick 6 pokemons for my battle, the strongest from each unique category_
-**Eternatus Eternamax** because it is has the strongest defence and HitPoint value of 250 & 255 respectively 
-**Mewtwo Mega Mewtwo X** because it is has the strongest Attack value of 190
-**Aggron Mega Aggron** has the second Highest Defence point value of 230
-**Heracross Mega Heracross** has the second Highest Attack point of  185
-**Regieleki** because it is the fastest and has a speed value of 200
-**Blissey** is also one of the strongest defensively with HitPoint of  255
+_I decided to pick 6 pokemons for my battle, the strongest from each unique category_ and also had strenght in other aspects as well
+
+**Eternatus Eternamax** because it is has the strongest _Defence_ and _HitPoint_ value of 250 & 255 respectively
+
+**Mewtwo Mega Mewtwo X** because it is has the Highest _Attack_ value of 190
+
+**Aggron Mega Aggron** has the second Highest _Defence_ point value of 230
+
+**Heracross Mega Heracross** has the second Highest _Attack_ point of  185
+
+**Regieleki** because it is the fastest and has a _Speed_ value of 200
+
+**Blissey** is also one of the strongest defensively with _HitPoint_ of  255
 
 
 
