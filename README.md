@@ -38,7 +38,8 @@ logically, its preferrably to choose the pokemons with different individual stre
 - Every pokemon had a total point which comprises of the sum of different unique criteria **(Attack,Speed,Defence,Hitpoint,Special Attack,Special Defence)**
   
 ## Analysis on each criteria
-### TOP 6 FOR ATTACK 
+
+### TOP 6 BY ATTACK 
 
 **Mewtwo Mega Mewtwo X** is a Psychic & Fighting Pokémon with an Attack point of **190** and it tops this category.
 
@@ -48,7 +49,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 **Groudon Primal Groudon** is a Ground & Fire Pokémon , **Rayquaza Mega Rayquaza** is a Dragon & Flying Pokémon, **Deoxys Attack Forme** is a Psychic Pokémon All three has an Attack point of 180
 
-### TOP 5 FOR DEFENCE
+### TOP 5 BY DEFENCE
 **Eternatus Eternamax** is a Poison & Dragon Pokémon with a defence point of **250** and it tops this category.
 
 **Aggron Mega Aggron** is a Steel Pokemon with defence point of 230.
@@ -60,7 +61,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 **Stakataka** is a Rock & and Steel Pokemon with defence point of 211.
 
 
-### TOP 5 FOR HITPOINT
+### TOP 5 BY HITPOINT
 
 **Eternatus Eternamax** is a Poison & Dragon Pokémon with HitPoint of **255** and it tops this category. 
 
@@ -73,7 +74,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 **Zygarde Complete Forme** is a Dragon & Ground Pokémon with HitPoint of  216.
 
 
-### TOP 4 FOR SPEED
+### TOP 4 BY SPEED
 **Regieleki** is an Electric Pokémon with a Speed of **200** Making it the _Fastest_ this category
 
 **Deoxys Speed Forme** is a Psychic Pokémon with a Speed of 180
@@ -84,7 +85,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 
 
-### TOP 5 OVERALL POINT
+### TOP 5 BY OVERALL POINT
 **Eternatus Eternamax** IS THE STRONGEST POKEMON WITH A TOTAL POINT OF **1125**
 
 **Mewtwo Mega Mewtwo** Y 780
