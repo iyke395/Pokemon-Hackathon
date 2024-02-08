@@ -43,6 +43,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 **Mewtwo Mega Mewtwo X** is a Psychic & Fighting Pokémon with an Attack point of **190** and it tops this category.
 
+
 **Heracross Mega Heracross** is a Bug & Fighting Pokémon with an Attack point of  185.
 
 **Kartana** is a Grass & Steel Pokémon with an Attack point of  181.
