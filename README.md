@@ -6,7 +6,7 @@ Analysing a pokemon dataset to determine the best Pokemons for your strategies,
 
 Data Visualization and Story Telling
 
-logically, its preferrably to choose the pokemons with different individual strenghts
+logically, its preferrably to choose the pokemons with different individual strengths
 
 **We are trying to answer the following questions**
 1. which pokemon has the highest Attack?
@@ -18,10 +18,10 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 ## Objectives
 - To Clean the provided dataset.
-- Understand the different unique strenght of pokemons.
-- Top 5 pokemons by each unique Strenght.
+- Understand the different unique strength of pokemons.
+- Top 5 pokemons by each unique Strength.
 - Make comparisons on different pokemon
-- Analyse thier strenght and weaknesses
+- Analyse thier strength and weaknesses
 
 
 ## The Process
