@@ -124,3 +124,8 @@ https://www.loom.com/share/2055ba90452f42ffaf1fbc42083fdd47?sid=5f723d6e-82df-4e
 _The Power BI file is attached below along side some pictures from my analysis on Power BI_
 
 https://drive.google.com/drive/folders/1qgZIjy149ZJhBbeQ-4LFgRcncV1HZIph?usp=drive_link
+---
+
+https://app.powerbi.com/view?r=eyJrIjoiNGQ1MTljNjEtMmU2Mi00MWZkLWI2NTctN2I1YzdmMjg0OGViIiwidCI6IjYxNTAyNjk5LWYxNWMtNGYyOS1hYzA0LTgzYTEyOTkyYjAxYSJ9&pageName=ReportSection
+
+---
