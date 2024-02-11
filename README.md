@@ -10,7 +10,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 
 **We are trying to answer the following questions**
 1. which pokemon has the highest Attack?
-2. which pokemon has the highest Defence?
+2. which pokemon has the highest Defense?
 3. which pokemon has the highest HitPoint?
 4. which pokemon has the highest Speed?
 5. which Pokemon is the Strongest Overall?
