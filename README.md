@@ -20,7 +20,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 - To Clean the provided dataset.
 - Understand the different unique strength of pokemons.
 - Top 5 pokemons by each unique Strength.
-- Make comparisons on different pokemon
+- Make comparisons on different pokemon.
 - Analyse thier strength and weaknesses
 
 
