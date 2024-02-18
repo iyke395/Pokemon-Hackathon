@@ -21,7 +21,7 @@ logically, its preferrably to choose the pokemons with different individual stre
 - Understand the different unique strength of pokemons.
 - Top 5 pokemons by each unique Strength.
 - Make comparisons on different pokemon.
-- Analyse thier strength and weaknesses
+- Analyse thier strength and weaknesses.
 
 
 ## The Process
