@@ -4,7 +4,7 @@ An Analysis on a Pokemon Dataset.
 ## Project Overview
 Analysing a pokemon dataset to determine the best Pokemons for your strategies.  
 
-Data Visualization and Story Telling
+Data Visualization and Story Telling.
 
 Logically, its preferrably to choose the Pokemon with different individual strengths
 
@@ -43,7 +43,6 @@ Logically, its preferrably to choose the Pokemon with different individual stren
 ### TOP 6 BY ATTACK 
 
 **Mewtwo Mega Mewtwo X** is a Psychic & Fighting Pokémon with an Attack point of **190** and it tops this category.
-
 
 **Heracross Mega Heracross** is a Bug & Fighting Pokémon with an Attack point of  185.
 
