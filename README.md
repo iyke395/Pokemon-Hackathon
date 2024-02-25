@@ -29,7 +29,7 @@ Logically, its preferrably to choose the Pokemon with different individual stren
 - Open the Pokemon dataset on microsoft excel to take a peek on its content and do some quick analysis like sorting to see the pokemons with the highest values on each unique criteria
 - For the visualization, i chose to use Microsoft PowerBI
 - Loaded the csv file on Power Query to do he necessary cleaning, i decided to change all balnk cells to "Null"
-- Apply to Power BI to commence Visualization
+- Apply to Power BI Desktop to commence Visualization
 - i used more of clustered bar charts for the visualizations and Filtered by the Top 5 or 6 in some cases
   
 ## Overview of Analysis obtained
