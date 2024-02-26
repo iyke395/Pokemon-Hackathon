@@ -1,4 +1,4 @@
-#POKEMON STRATEGY
+# POKEMON STRATEGY
 An Analysis on a Pokemon Dataset.
 
 ## Project Overview
