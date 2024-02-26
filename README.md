@@ -33,7 +33,7 @@ Logically, its preferrably to choose the Pokemon with different individual stren
 - i used more of clustered bar charts for the visualizations and Filtered by the Top 5 or 6 in some cases
   
 ## Overview of Analysis obtained
-- We had a total of **1194** unique Pokemon
+- We had a total of **1194** unique Pokemon.
 - **18** Primary types of pokemon
 - The **Water** Type is the most common type in this Dataset with a value of **150** pokemon.the next type that comes close is the **Normal** Type with **131**
 - Every pokemon had a total point which comprises of the sum of different unique criteria **(Attack,Speed,Defence,Hitpoint,Special Attack,Special Defence)**
