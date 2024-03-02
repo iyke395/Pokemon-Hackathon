@@ -30,7 +30,7 @@ Logically, its preferrably to choose the Pokemon with different individual stren
 - For the visualization, i chose to use Microsoft PowerBI.
 - Loaded the csv file on Power Query to do he necessary cleaning, i decided to change all balnk cells to "Null"
 - Apply to Power BI Desktop to commence Visualization,
-- i used more of clustered bar charts for the visualizations and Filtered by the Top 5 or 6 in some cases
+- i used more of clustered bar charts for the visualizations and Filtered by the Top 5 or 6 in some cases.
   
 ## Overview of Analysis obtained
 - We had a total of **1194** unique Pokemon.
