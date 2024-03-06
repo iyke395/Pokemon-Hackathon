@@ -1,5 +1,5 @@
 # POKEMON STRATEGY
-An Analysis on a Pokemon Dataset,,
+An Analysis on a Pokemon Dataset,
 
 ## Project Overview
 Analysing a pokemon dataset to determine the best Pokemons for your strategies.  
