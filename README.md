@@ -7,7 +7,7 @@ Analysing a pokemon dataset to determine the best Pokemons for your strategies.
 
 Data Visualization and Story Telling.
 
-Logically, its preferrably to choose the Pokemon with different individual strengths..hjjfvk
+Logically, its preferrably to choose the Pokemon with different individual strengths..hjjf
 
 
 **We are trying to answer the following questions**
