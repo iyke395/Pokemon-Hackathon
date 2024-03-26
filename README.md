@@ -5,7 +5,7 @@ An Analysis on a Pokemon Dataset.
 ## Project Overview
 Analysing a pokemon dataset to determine the best Pokemons for your strategies.  
 
-Data Visualization and Story Telling.jbjbbkn
+Data Visualization and Story Telling.jbjbbk
 
 Logically, its preferrably to choose the Pokemon with different individual strengths.
 
